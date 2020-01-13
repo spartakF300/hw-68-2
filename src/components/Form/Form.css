@@ -1,0 +1,21 @@
+.formBox{
+    width: 100%;
+}
+.inputOne{
+    height: 40px;
+    width: 70%;
+}
+.inputTwo{
+    height: 40px;
+    width: 35%;
+}
+.btnOne{
+    height: 45px;
+    width: 10%;
+}
+.formElem{
+    margin: 5px;
+}
+span{
+    text-transform: uppercase;
+}

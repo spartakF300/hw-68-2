@@ -1,0 +1,22 @@
+.list{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: 1px solid black;
+    margin: 10px;
+}
+.list-wrap{
+    width: 500px;
+    border: 1px solid black;
+    margin: 0 auto;
+    min-height: 400px;
+    padding: 20px 0;
+}
+.container{
+    border: 1px solid black;
+    text-align: center;
+    width: 600px;
+    margin: 0 auto;
+    min-height: 467px;
+    padding: 20px 0;
+}
